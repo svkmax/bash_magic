@@ -1,2 +1,7 @@
-
-alias sd='svn diff --diff-cmd /usr/bin/meld'
+alias sa='svn add'
+alias sd='svn diff -x -w'
+alias ss='svn status'
+alias sr='svn revert'
+alias sc='svn commit'
+alias sl='svn log -l 14'
+alias sup='svn up'

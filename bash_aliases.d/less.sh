@@ -1,2 +1,1 @@
-
-alias less='less -R'
+alias less='less -FXR'
